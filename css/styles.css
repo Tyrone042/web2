@@ -1,0 +1,197 @@
+
+body{
+    margin: 0;
+    font-family: 'merriweather', serif;
+
+}
+h1{
+    margin-top: 0;
+    font-family: cursive, 'sacramento', cursive ;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 1.5;
+    
+   
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #66BFBF;
+
+}
+h3{
+    color: #66BFBF;
+}
+.first-container{
+    background-color:#d3f5fa;
+    width: 1270px;
+    height: 800px;
+    
+
+
+}
+.middle-container{
+    
+
+    
+
+}
+.bottom-container{
+    
+    
+    
+}
+.text-center{
+    text-align: center!important;
+}
+
+.img-1{
+    margin-left: 700px;
+}
+.img-2{
+    position: absolute;
+    margin-left: 200px;
+    display: block;
+
+    
+
+}
+
+.img-3{
+    margin-right: 0px;
+    position: relative;
+    margin-bottom: 10px;
+    width: 420px;
+    padding-top: 0.5;
+    height: fit-content;
+}
+span{
+    text-decoration: underline;
+}
+
+.img-4{
+    width: 200px;
+    margin-top: 50px;
+}
+.text{
+    text-align: center!important;
+}
+.center{
+    text-align: center!important;
+}
+.center-2{
+    text-align: center!important;
+}
+.center-3{
+    text-align: center!important;
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+.img-5{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.img-6{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.burger-des{
+    clear: right;
+}
+
+
+hr{
+    width: 3%;
+    border-top-style: dotted;
+    border-bottom-style: none;
+    border-width: 5px;
+    color:#a4fafa;
+    border-left: none;
+    border-right: none;
+}
+
+.get-in-touch{
+    line-height: 2;
+}
+
+.mac{
+    width: 39%;
+    margin: auto;
+    
+}
+
+.btn{
+    color: #e0fcfc;
+    text-decoration: none;
+    
+}
+button{
+    margin-top: 40px;
+    background-color:#135757 ;
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-bottom: 50px;
+    
+}
+button:hover{
+    background-color: #479999;
+    transition: 3s;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px;
+}
+
+
+.tech{
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+.twitter{
+    position: relative;
+    margin-top: 10px;
+}
+.footer-link-2{
+    text-decoration: none;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    position: relative;  
+    bottom: 10px;
+}
+.footer-link-1{
+    text-decoration: none;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    position: relative;  
+    bottom: 10px;
+}
+.footer-link-3{
+    text-decoration: none;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    position: relative;  
+    bottom: 10px;
+}
+.chrome{
+    width: 32px;
+    height: 32px;
+}
